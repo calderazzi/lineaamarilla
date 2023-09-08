@@ -37,8 +37,6 @@ body {
   position: absolute;
   top: 15px;
   right: 40px;
-  background-color: yellow;
-  border-radius: 45%;
 }
 .menu img {
   width: 100px;
@@ -80,6 +78,8 @@ li {
 h1 {
   font-size: 40px;
   color: black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bolder;
 }
 
 .logo {
@@ -110,6 +110,7 @@ animation: vuelta 4s;
   font-size: 18px;
   font-weight: bolder;
   text-align: center;
+  font-family: cursive;
   color: black;
 
 }
@@ -133,7 +134,7 @@ animation: vuelta 4s;
   width: auto;
   height: 30px;
   background-color: yellow;
-  margin-top: -45px;
+  margin-top: -500px;
   margin-bottom: 30px;
   font-weight: bolder;
   font-size: 25px;
@@ -145,8 +146,11 @@ animation: vuelta 4s;
   color: black;
   right: 30px;
   bottom: 200px;
+  font-family: cursive;
 }
-
+.amarillo {
+  color: yellow;
+}
 .llora {
   width: 400px;
   right: 60px;
@@ -166,6 +170,7 @@ animation: vuelta 4s;
   font-weight: bold;
   text-align: justify;
   color: black;
+  font-family: cursive;
 }
 span {
   font-size: 25px;
@@ -173,6 +178,7 @@ span {
 }
 h2 {
   text-decoration: underline;
+  font-family: cursive;
 }
 
 h3 a {
